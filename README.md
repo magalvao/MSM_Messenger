@@ -19,3 +19,9 @@ There are a lot of security concerns for those type of projects, so, use at your
 <img src="http://i.imgur.com/rvxXjNk.png" alt="login" width="400" />
 <img src="http://i.imgur.com/drqZvsc.png" alt="contacts" width="400" />
 <img src="http://i.imgur.com/aaG037l.png" alt="message" width="400" />
+
+## Todo
+* File transfer
+* Nudge!!!
+* More emoticons
+* More error handling
