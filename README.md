@@ -15,6 +15,8 @@ A parody of an old popular messenger app from the 2000's. Developed for a study 
 This project was developed in a few days for research purposes.
 There are a lot of security concerns for those type of projects, so, use at your own risk.
 
+No cryptography included. Plain text messages.
+
 ## Screenshots
 <img src="http://i.imgur.com/rvxXjNk.png" alt="login" width="400" />
 <img src="http://i.imgur.com/drqZvsc.png" alt="contacts" width="400" />
@@ -25,3 +27,4 @@ There are a lot of security concerns for those type of projects, so, use at your
 * Nudge!!!
 * More emoticons
 * More error handling
+* Basic encryption of messages
